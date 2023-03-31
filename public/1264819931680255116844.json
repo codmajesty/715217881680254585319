@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12484078189",
+    "project_id": "boka-wednesday-hd",
+    "storage_bucket": "boka-wednesday-hd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12484078189:android:9e79fb730801e020ae2d64",
+        "android_client_info": {
+          "package_name": "com.naufalharits.toca.wednesday.addams.boca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12484078189-0q00ju4srhjvovugdqpruu8ek9690bus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHBwh9CxUa1LiTCp0fiivAD3qhrnt7FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12484078189-0q00ju4srhjvovugdqpruu8ek9690bus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
